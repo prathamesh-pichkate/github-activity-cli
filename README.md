@@ -20,4 +20,4 @@ A simple command-line interface (CLI) tool that fetches and displays the recent 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/github-activity-cli.git
+   https://github.com/prathamesh-pichkate/github-activity-cli.git
