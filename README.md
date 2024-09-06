@@ -15,9 +15,7 @@ A simple command-line interface (CLI) tool that fetches and displays the recent 
 - **Node.js** (v12.x or later)
 - **npm** (comes with Node.js)
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   https://github.com/prathamesh-pichkate/github-activity-cli.git
+## How to run the project from the command line:
+1. Open the project folder.
+2. Open the terminal and run node index.js <repo-name>
+3. All the recent activities will be visible.
